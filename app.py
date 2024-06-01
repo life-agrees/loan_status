@@ -127,7 +127,7 @@ if button:
         st.ballon()
     else:
         st.error('Loan is not approved')
-        st.write('you are in eligible for the loan')
+        st.write('you are ineligible for the loan')
         st.snow()
 
 
